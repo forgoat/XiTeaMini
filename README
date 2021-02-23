@@ -1,0 +1,4 @@
+使用方法:
+以milk tea为例子
+gradle build
+java -cp build/classes/java/main factory/milktea/MilkTeaApplication
